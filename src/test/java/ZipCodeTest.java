@@ -34,7 +34,7 @@ public class ZipCodeTest {
     }
 
     @Test
-    public void testValidZipCode() throws InterruptedException {
+    public void testValidZipCode() {
 
         /*
         Открыть браузер
